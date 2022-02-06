@@ -4,6 +4,8 @@
 
 body {
     color: #362222;
+    width: 100%;
+    max-width: 1440px;
 }
 
 button:hover {

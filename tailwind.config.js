@@ -10,6 +10,12 @@ module.exports = {
         footer: "#56402C",
         font: "#362222",
       },
+      backgroundImage: {
+        laura: "url('../public/images/laura.svg')",
+      },
+      boxShadow: {
+        "3xl": "0px 6px 10px rgba(135, 100, 69, 1)",
+      },
     },
   },
   plugins: [],
