@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Collections from "./components/Collections";
+import SliderItems from "./components/SliderItems";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Hero />
       <Collections />
+      <SliderItems />
     </>
   );
 }

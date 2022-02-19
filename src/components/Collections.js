@@ -58,7 +58,7 @@ const Collections = () => {
             ></img>
             <div className="bg-primary opacity-75 absolute w-1/6 h-1/6 -bottom-8 -left-4"></div>
           </div>
-          <div className="sm:w-10/12 sm:px-0 px-8 lg:pr-12 text-center sm:text-left my-auto font-semibold space-y-5">
+          <div className="sm:w-10/12 sm:px-0 px-5 lg:pr-12 text-center sm:text-left my-auto font-semibold space-y-5">
             <h1 className="capitalize lg:text-[45px] md:text-[38px] text-[32px]">
               best fashion since 2019
             </h1>
