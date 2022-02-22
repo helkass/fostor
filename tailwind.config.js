@@ -16,6 +16,9 @@ module.exports = {
       boxShadow: {
         "3xl": "0px 6px 10px rgba(135, 100, 69, 1)",
       },
+      fontSize: {
+        "3.5xl": "2rem",
+      },
     },
   },
   plugins: [],
