@@ -159,3 +159,11 @@ export const NewArrival = [
     afterPrice: "$130",
   },
 ];
+
+export const imagesFooter = [
+  "./images/ali-nb.png",
+  "./images/ian-nb.png",
+  "./images/ali-nb.png",
+  "./images/ian-nb.png",
+  "./images/ali-nb.png",
+];

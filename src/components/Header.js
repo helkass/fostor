@@ -32,7 +32,7 @@ const Header = () => {
         <div
           className={`${
             isOpen ? "left-0" : "-left-full"
-          } fixed md:static w-2/3 md:max-w-max bottom-0 transition-all ease-in-out duration-400 top-0 text-center md:bg-inherit bg-rose-200 md:opacity-100 opacity-60 z-20 md:flex p-24 md:p-0`}
+          } fixed md:static w-2/3 md:max-w-max bottom-0 transition-all ease-in-out duration-400 top-0 text-center md:bg-inherit bg-thrid md:opacity-100 bg-opacity-90 z-20 md:flex p-24 md:p-0`}
         >
           <ul className="flex md:flex-row flex-col">
             <li className="mr-5 block mb-8 md:mb-0 hover:opacity-75">

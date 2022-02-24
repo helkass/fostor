@@ -14,8 +14,8 @@ const Hero = () => {
             alt=""
           />
           <div className="container lg:mt-14 md:mt-10 grid md:grid-cols-2 sm:mx-auto mx-3 z-10">
-            <div className="text-center md:text-left xl:py-20 lg:pt-7 xl:text-center md:pt-4 mb-12 md:mb-0">
-              <h1 className="lg:text-[50px] md:text-[40px] text-3xl font-bold md:pr-10">
+            <div className="text-center md:text-left xl:py-20 lg:pt-7 md:pt-4 mb-12 md:mb-0">
+              <h1 className="lg:text-[50px] md:text-[40px] text-3xl font-bold md:pr-10 leading-none">
                 find the best fashion style for you
               </h1>
               <p className="font-semibold w-full lg:w-full md:w-8/12 xl:px-4 xl:mt-10 lg:mt-8">

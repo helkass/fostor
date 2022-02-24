@@ -4,6 +4,8 @@ import Collections from "./components/Collections";
 import SliderItems from "./components/SliderItems";
 import OurProducts from "./components/OurProducts";
 import DealTheDay from "./components/DealTheDay";
+import Feedback from "./components/Feedback";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <SliderItems />
       <OurProducts />
       <DealTheDay />
+      <Feedback />
+      <Footer />
     </>
   );
 }

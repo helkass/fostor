@@ -90,7 +90,7 @@ export class OurProducts extends Component {
               return (
                 <div
                   key={index}
-                  className="md:h-64 max-h-max sm:space-y-3 space-y-2 sm:mt-10 sm:mb-16 my-3"
+                  className="md:h-64 min-h-max sm:space-y-3 space-y-2 sm:mt-10 sm:mb-16 my-3 hover:scale-105 transition-all ease-in-out duration-200 hover:shadow-xl hover:shadow-primary"
                 >
                   <img
                     className="sm:h-full sm:w-full h-3/4 object-cover"

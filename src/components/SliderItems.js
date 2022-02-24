@@ -41,8 +41,6 @@ const SliderItems = () => {
   const prevSlide = () => {
     setCurrent(current === 0 ? length - 1 : current - 1);
   };
-
-    console.log(current);
     return (
       <section className="bg-second py-10 lg:px-16">
         <div className="container mx-auto">
